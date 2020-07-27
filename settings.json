@@ -1,0 +1,12 @@
+{
+  "git.autofetch": true,
+  "editor.suggestSelection": "first",
+  "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+  "workbench.iconTheme": "eq-material-theme-icons-darker",
+  "window.zoomLevel": 1,
+  "editor.formatOnSave": true,
+  "editor.fontFamily": "Fira Code",
+  "editor.fontLigatures": true,
+  "git.enableSmartCommit": true,
+  "workbench.colorTheme": "Community Material Theme Darker High Contrast"
+}
